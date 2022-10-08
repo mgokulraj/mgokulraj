@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **with other content creators**
 
-- 👨‍💻 All of my projects are available at [https://maptfy-app.netlify.app/](https://maptfy-app.netlify.app/)
-
 - 💬 Ask me about **JavaScript HTML CSS**
 
 - 📫 How to reach me **mgokulraj.uk@gmail.com**
