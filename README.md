@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Gokulraj <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Front+-end+Developer)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson+Text&pause=1000&color=4338F7&random=false&width=435&lines=I'm+an+Azure+Cloud+Engineer)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on **frontend projects using React.js and JavaScript**
