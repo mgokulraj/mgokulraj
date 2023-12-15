@@ -17,7 +17,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Tools and Languages</h3>
 
 ![MS Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![MS Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
