@@ -3,34 +3,32 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson+Text&pause=1000&color=4338F7&random=false&width=435&lines=I'm+an+Azure+Cloud+Engineer)](https://git.io/typing-svg)
 
 
-- 🔭 I’m currently working on **frontend projects using React.js and JavaScript**
+- 🔭 I’m currently working on **Azure Devops Projects**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Docker and Kubernetes**
 
 - 👯 I’m looking to collaborate on **with other content creators**
 
-- 💬 Ask me about **JavaScript HTML CSS**
+- 💬 Ask me about **Cloud Infrastructure**
 
 - 📫 How to reach me **mgokulraj.uk@gmail.com**
 
-- ⚡ Fun fact **Looking for a front end developer job 🤣**
+- ⚡ Fun fact **Looking for a Azure Devops role 🤣**
 
 ---
 
 <h3 align="left">Languages and Tools</h3>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ReactJS](https://img.shields.io/badge/React.js-35495E?style=for-the-badge&logo=react&logoColor=#61DAFB)
+https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white
+https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![MS Azure](https://img.shields.io/badge/Microsoft_Azure-0080FF?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
+https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/React.js-35495E?style=for-the-badge&logo=react&logoColor=#61DAFB)
   
   ---
 
