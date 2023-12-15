@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker and Kubernetes**
 
-- 👯 I’m looking to collaborate on **with other content creators**
+- 👯 I’m looking to collaborate on **with other Azure Devops Engineers**
 
 - 💬 Ask me about **Cloud Infrastructure**
 
